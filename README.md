@@ -112,6 +112,6 @@ Intial view of balance target values:
 ## Summary
 
 The results of the machine learning models displayed above show that....., 
-Based on the results, the best model to use for predicting credit risk is...
+Based on the results, the best model to use for predicting credit risk is....
 
 If you do not recommend any of the models, justify your reasoning.
