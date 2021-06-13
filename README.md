@@ -1,6 +1,6 @@
 # Predicting Credit Risk with Supervised Machine Learning 
 
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/cr.png)
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/cr.jpg)
 
 ## Project Overview
 
