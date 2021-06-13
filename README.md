@@ -40,7 +40,7 @@ Sensitivity:
 
 
  
-2. **SMOTE
+2. **SMOTE**
 
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
@@ -53,7 +53,7 @@ Precision:
 Sensitivity:
 
 
-3. **ClusteredCentroids
+3. **ClusteredCentroids**
 
 
  ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
@@ -66,7 +66,7 @@ Precision:
 Sensitivity:
 
 
-4. **SMOTEENN
+4. **SMOTEENN**
 
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
@@ -79,7 +79,7 @@ Precision:
 Sensitivity:
 
 
-5. **Random Forest Classifier
+5. **Random Forest Classifier**
 
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
@@ -92,7 +92,7 @@ Precision:
 Sensitivity:
 
 
-6. **AdaBooser Classifier
+6. **AdaBooser Classifier**
 
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
