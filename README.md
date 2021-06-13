@@ -50,17 +50,19 @@ Intial view of balance target values:
 
  
 *Balanced Accuracy Score:*
+-0.66
 
 *Precision:*
+-
 
 *Sensitivity:*
 
 
 
-3. **ClusteredCentroids**
+3. **Undersampling**
 
 
- ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+ ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/)
  
   
 *Balanced Accuracy Score:*
@@ -74,7 +76,7 @@ Intial view of balance target values:
 4. **SMOTEENN**
 
 
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/)
 
  
 *Balanced Accuracy Score:*
@@ -88,7 +90,7 @@ Intial view of balance target values:
 5. **Random Forest Classifier**
 
 
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/)
  
   
 *Balanced Accuracy Score:*
