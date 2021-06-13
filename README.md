@@ -2,15 +2,24 @@
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/cr.jpg)
 
-## Project Overview
+### Tools
+ - Python
+ - Jupyter Notebook
+
+## Project Purpose
+
+This project displays an overview of the performance of all the machine learning models* used to asses and predict credit risk from the dataset provided, with the purpose of reducing financial risk for banks and financial institutions. In addition, using a supervised machine learning model can provide portfolio management for clients and recommendations in cases of fraud.
 
 
-For this deliverable, you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
+### Machine Learning Models (Algorithms)
+ -logistic regression
+ -decision tree
+ -random forest
+ -support vector 
 
-The report should contain the following:
+##  Analysis Results
+Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Summary
 
-Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
-Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
