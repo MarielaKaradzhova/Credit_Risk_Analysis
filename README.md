@@ -73,14 +73,15 @@ Intial view of balance target values:
 *Sensitivity:*
 
 
-
+**Combination (Over and Under) Sampling**
 4. **SMOTEENN**
 
 
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/)
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/smoteenn.png)
 
  
 *Balanced Accuracy Score:*
+-0.646
 
 *Precision:*
 
