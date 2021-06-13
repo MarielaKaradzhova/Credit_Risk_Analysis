@@ -32,7 +32,12 @@ Intial view of balance target values:
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
  
- 
+Balanced Accuracy Score: 
+
+Precision:
+
+Sensitivity:
+
 
  
 2. SMOTE
@@ -40,17 +45,38 @@ Intial view of balance target values:
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
 
+ 
+Balanced Accuracy Score: 
+
+Precision:
+
+Sensitivity:
+
 
 3. ClusteredCentroids
 
 
  ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
  
- 
+  
+Balanced Accuracy Score: 
+
+Precision:
+
+Sensitivity:
+
+
 4. SMOTEENN
 
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+
+ 
+Balanced Accuracy Score: 
+
+Precision:
+
+Sensitivity:
 
 
 5. Random Forest Classifier
@@ -58,11 +84,25 @@ Intial view of balance target values:
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
  
- 
+  
+Balanced Accuracy Score: 
+
+Precision:
+
+Sensitivity:
+
+
 6. AdaBooser Classifier
 
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+
+ 
+Balanced Accuracy Score: 
+
+Precision:
+
+Sensitivity:
 
 
 ## Summary
