@@ -14,7 +14,7 @@ This project displays an overview of the performance of all the machine learning
 ### Machine Learning Models (Algorithms)
  - Logistic Regression
  - Decision Tree
- - random forest
+ - Random Forest
  - support vector 
 
 ##  Analysis Results
