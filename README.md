@@ -89,36 +89,4 @@ Intial view of balance target values:
 
 
 
-5. **Random Forest Classifier**
 
-
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/)
- 
-  
-*Balanced Accuracy Score:*
-
-*Precision:*
-
-*Sensitivity:*
-
-
-6. **AdaBooser Classifier**
-
-
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
-
- 
-*Balanced Accuracy Score:*
-
-*Precision:*
-
-*Sensitivity:*
-
-
-
-## Summary
-
-The results of the machine learning models displayed above show that....., 
-Based on the results, the best model to use for predicting credit risk is....
-
-If you do not recommend any of the models, justify your reasoning.
