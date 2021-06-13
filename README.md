@@ -32,11 +32,13 @@ Intial view of balance target values:
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/rm_ovs.png)
  
-*Balanced Accuracy Score:*
-
+*Balanced Accuracy Score: 0.65*
 *Precision:*
-
+ - High = predicts low risk
+ - Low = predicts high risk
+ 
 *Sensitivity:*
+ -0.69 for both high risk and low risk 
 
 
  
