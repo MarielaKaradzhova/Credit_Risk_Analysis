@@ -30,7 +30,7 @@ Intial view of balance target values:
 1. **RandomOverSampler** 
 
 
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/rm_ovs.png)
  
 *Balanced Accuracy Score:*
 
