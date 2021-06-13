@@ -26,7 +26,7 @@ Intial view of balance target values:
 
 ### Balance Accuracy Scores of Machine Learning Models
 
-
+ **Oversampling** 
 1. **RandomOverSampler** 
 
 
