@@ -101,11 +101,12 @@ Intial view of balance target values:
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
 
  
-Balanced Accuracy Score: 
+*Balanced Accuracy Score:*
 
-Precision:
+*Precision:*
 
-Sensitivity:
+*Sensitivity:*
+
 
 
 ## Summary
