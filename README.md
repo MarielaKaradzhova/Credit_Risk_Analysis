@@ -1,5 +1,8 @@
-# Credit_Risk_Analysis
+# Predicting Credit Risk with Supervised Machine Learning 
 
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/cr.png)
+
+## Project Overview
 
 
 For this deliverable, you’ll write a brief summary and analysis of the performance of all the machine learning models used in this Challenge.
