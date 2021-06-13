@@ -66,6 +66,7 @@ Intial view of balance target values:
  
   
 *Balanced Accuracy Score:*
+ - 0.58
 
 *Precision:*
 
