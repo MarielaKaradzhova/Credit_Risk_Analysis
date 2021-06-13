@@ -62,7 +62,7 @@ Intial view of balance target values:
 3. **Undersampling**
 
 
- ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/)
+ ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/under.png)
  
   
 *Balanced Accuracy Score:*
