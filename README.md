@@ -12,10 +12,10 @@ This project displays an overview of the performance of all the machine learning
 
 
 ### Machine Learning Models (Algorithms)
- -logistic regression
- -decision tree
- -random forest
- -support vector 
+ - logistic regression
+ - decision tree
+ - random forest
+ - support vector 
 
 ##  Analysis Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
