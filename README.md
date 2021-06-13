@@ -8,7 +8,7 @@
 
 ## Project Purpose
 
-This project displays an overview of the performance of all the machine learning models* used to asses and predict credit risk from the dataset provided, with the purpose of reducing financial risk for banks and financial institutions. In addition, using a supervised machine learning model can provide portfolio management for clients and recommendations in cases of fraud.
+This project displays an overview of the performance of all the machine learning models* used to asses and predict credit risk from the [dataset](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/LoanStats_2019Q1.csv) provided, with the purpose of reducing financial risk for banks and financial institutions. In addition, using a supervised machine learning model can provide portfolio management for clients and recommendations in cases of fraud.
 
 
 ### Machine Learning Models (Algorithms)
