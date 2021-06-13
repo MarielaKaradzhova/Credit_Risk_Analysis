@@ -38,6 +38,7 @@ Intial view of balance target values:
  - Low = predicts high risk
  
 *Sensitivity:*
+
  -0.69 for both high risk and low risk 
 
 
@@ -45,7 +46,7 @@ Intial view of balance target values:
 2. **SMOTE**
 
 
-![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/smt.png)
 
  
 *Balanced Accuracy Score:*
