@@ -33,25 +33,35 @@ Intial view of balance target values:
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
  
  
- 
+
  
 2. SMOTE
+
+
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
 
 
 3. ClusteredCentroids
+
+
  ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
  
  
 4. SMOTEENN
+
+
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
 
 
 5. Random Forest Classifier
+
+
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
  
  
 6. AdaBooser Classifier
+
+
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
 
 
