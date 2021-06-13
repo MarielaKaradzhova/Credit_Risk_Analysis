@@ -85,7 +85,7 @@ Intial view of balance target values:
 
 *Precision:*
 
-*Sensitivity:*
+*Sensitivity:* 
 
 
 
