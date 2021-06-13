@@ -21,7 +21,23 @@ This project displays an overview of the performance of all the machine learning
 Intial view of balance target values:
 
 ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+
+ - This image shows that low risk = 68470, and high risk = 347. There are more cases of low risk compared to high risk. 
+
+### Balance Accuracy Scores of Machine Learning Models
+1. RandomOverSampler
+ ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+2. SMOTE
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+3. ClusteredCentroids
+ ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+4. SMOTEENN
+![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+5. Random Forest Classifier
+ ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+6. AdaBooser Classifier
+ ![](https://github.com/MarielaKaradzhova/Credit_Risk_Analysis/blob/main/resources/df_bal.png)
+
 
 ## Summary
 
